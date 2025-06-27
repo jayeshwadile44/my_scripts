@@ -2,4 +2,4 @@ Hello World
 
 Jayesh 1234
 
-This is my scrip repo
+This is my scrip repository
