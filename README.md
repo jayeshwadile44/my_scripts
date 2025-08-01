@@ -31,3 +31,4 @@ This repo contains some basic **shell scripts** I created while learning Linux. 
    ```bash
    git clone https://github.com/jayeshwadile44/my_scripts.git
    cd my_scripts
+Good Luck !
